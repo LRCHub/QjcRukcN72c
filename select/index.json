@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "劇上",
   "base_artist": "YOASOBI",
-  "createdAt": "2026-03-19T12:28:00.600062Z",
+  "createdAt": "2026-03-25T09:54:05.668804Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,7 +35,7 @@
       "artist": "YOASOBI",
       "has_synced": true,
       "path": "select/localdb_01_劇上_YOASOBI.lrc",
-      "repo_name": "GuIkxXiVHps"
+      "repo_name": "FMBxlWeu098"
     },
     {
       "id": "localdb_2",
@@ -44,7 +44,16 @@
       "artist": "YOASOBI",
       "has_synced": true,
       "path": "select/localdb_02_劇上_YOASOBI.lrc",
-      "repo_name": "FMBxlWeu098"
+      "repo_name": "QjcRukcN72c"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "劇上",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/localdb_03_劇上_YOASOBI.lrc",
+      "repo_name": "GuIkxXiVHps"
     }
   ]
 }
