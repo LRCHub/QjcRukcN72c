@@ -2,23 +2,31 @@
   "version": 1,
   "base_track": "劇上",
   "base_artist": "YOASOBI",
-  "createdAt": "2026-03-25T09:54:05.668804Z",
+  "createdAt": "2026-03-26T15:22:21.119765Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
       "title": "劇上",
       "artist": "YOASOBI",
-      "has_synced": true,
-      "path": "select/01_劇上_YOASOBI.lrc"
+      "has_synced": false,
+      "path": "select/01_劇上_YOASOBI.txt"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
+      "title": "劇上",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_劇上_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
       "title": "劇上 (Instrumental)",
       "artist": "YOASOBI",
       "has_synced": true,
-      "path": "select/02_劇上_(Instrumental)_YOASOBI.lrc"
+      "path": "select/03_劇上_(Instrumental)_YOASOBI.lrc"
     },
     {
       "id": "petitlyrics_1",
@@ -35,7 +43,7 @@
       "artist": "YOASOBI",
       "has_synced": true,
       "path": "select/localdb_01_劇上_YOASOBI.lrc",
-      "repo_name": "FMBxlWeu098"
+      "repo_name": "QjcRukcN72c"
     },
     {
       "id": "localdb_2",
@@ -44,7 +52,7 @@
       "artist": "YOASOBI",
       "has_synced": true,
       "path": "select/localdb_02_劇上_YOASOBI.lrc",
-      "repo_name": "QjcRukcN72c"
+      "repo_name": "FMBxlWeu098"
     },
     {
       "id": "localdb_3",
